@@ -25,7 +25,11 @@
 
 ## 🎥 Demo
 
-![Weather Dashboard Demo](https://via.placeholder.com/800x400.png?text=Weather+Dashboard+Screenshot)
+![Weather Dashboard Demo](./public/images/weather-screenshot.png)
+
+### Live Demo
+- Clone the repository and run locally to see it in action!
+- Search for any city (e.g., Istanbul, Tokyo, New York)
 
 ---
 
